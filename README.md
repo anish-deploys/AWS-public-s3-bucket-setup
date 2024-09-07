@@ -1,4 +1,4 @@
-<h1>Project Title: Public S3 Bucket Setup</h1>
+<h1>Project Title : Public S3 Bucket Setup</h1>
 <h3>Description</h3>
   <p>This project demonstrates the creation of an Amazon S3 bucket with public access using AWS Management Console. The bucket is configured to allow unrestricted access to its contents, making it suitable for hosting static files such as images, videos, or websites. The project includes steps to set up the bucket, configure public access settings, and verify access permissions, serving as a reference for setting up publicly accessible resources in S3.</p>
 <h3>Objectives</h3>  
