@@ -59,5 +59,50 @@
 
 <hr></hr>
 
-<h4>Step 7 : Select Create Bucket to successfully create the bucket</h4>
+<h4>Step 7 : Select the bucket and Open Objects tab</h4>
 
+<hr></hr>
+
+![7](https://github.com/user-attachments/assets/b85cf3cd-277a-4c90-b979-84293acaf815)
+
+<hr></hr>
+
+<h4>Step 8 : Select Upload to add files or folders</h4>
+
+<hr></hr>
+
+![8](https://github.com/user-attachments/assets/0260a77d-40ee-4190-9f80-8d3124a48334)
+
+<hr></hr>
+
+<h4>Step 9 : Open the properties tab of the uploaded file/folder, there you can see the Object URL</h4>
+
+<hr></hr>
+
+![9](https://github.com/user-attachments/assets/2d24f919-3d42-4e43-bc79-30b67751db72)
+
+<hr></hr>
+
+<h4>Step 10 : Go to the permissions tab and select edit</h4>
+
+<hr></hr>
+
+![10](https://github.com/user-attachments/assets/6274e93b-717b-47ff-bade-6ed53d2249f8)
+
+<hr></hr>
+
+<h4>Step 11 : Checkbox the Read in Objects to gain public access and also checkbox the understanding and then save</h4>
+
+<hr></hr>
+
+![11](https://github.com/user-attachments/assets/763922e0-8beb-4ca7-983b-90edd7abd3eb)
+
+<hr></hr>
+
+<h4>Now the URL in the properties tab can access everyone</h4>
+
+<hr></hr>
+
+![12](https://github.com/user-attachments/assets/d61787a9-9b6a-45f9-ad4b-cb4e9244db50)
+
+<hr></hr>
